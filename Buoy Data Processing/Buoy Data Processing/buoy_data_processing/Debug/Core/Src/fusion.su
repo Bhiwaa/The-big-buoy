@@ -1,0 +1,2 @@
+../Core/Src/fusion.c:10:6:fusion_init	16	static
+../Core/Src/fusion.c:22:6:fusion_update	32	static

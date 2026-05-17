@@ -1,0 +1,5 @@
+../Core/Src/app.c:46:13:uart_print	1
+../Core/Src/app.c:58:13:i2c_scan	4
+../Core/Src/app.c:92:13:bmp280_check_id	4
+../Core/Src/app.c:137:6:app_init	1
+../Core/Src/app.c:159:6:app_step	2

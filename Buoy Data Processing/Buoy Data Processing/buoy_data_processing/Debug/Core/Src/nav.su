@@ -1,0 +1,2 @@
+../Core/Src/nav.c:10:6:nav_init	16	static
+../Core/Src/nav.c:22:6:nav_compute	24	static
