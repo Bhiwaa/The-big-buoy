@@ -1,0 +1,8 @@
+../Core/Src/dht22.c:11:13:dht22_delay_us	2
+../Core/Src/dht22.c:16:16:dht22_read_pin	1
+../Core/Src/dht22.c:19:13:pin_output_low	1
+../Core/Src/dht22.c:33:13:pin_input	1
+../Core/Src/dht22.c:40:6:DHT22_Init	1
+../Core/Src/dht22.c:47:9:DHT22_Read	22
+../Core/Src/dht22.c:116:6:DHT22_Print	3
+../Core/Src/dht22.c:129:6:DHT22_Debug	16

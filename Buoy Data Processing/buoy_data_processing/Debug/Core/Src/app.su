@@ -1,0 +1,13 @@
+../Core/Src/app.c:72:13:uart_print	16	static
+../Core/Src/app.c:80:13:i2c_scan	88	static
+../Core/Src/app.c:99:13:bmp280_check_id	104	static
+../Core/Src/app.c:115:13:bmp280_read_calibration	192	static
+../Core/Src/app.c:140:13:bmp280_configure	32	static
+../Core/Src/app.c:152:13:bmp280_read_raw	48	static
+../Core/Src/app.c:161:14:bmp280_comp_temp	32	static
+../Core/Src/app.c:172:14:bmp280_comp_press	40	static
+../Core/Src/app.c:192:13:bno055_init	104	static
+../Core/Src/app.c:218:13:app_step_imu_baro	520	static
+../Core/Src/app.c:263:13:app_step_dht22	120	static
+../Core/Src/app.c:278:6:app_init	96	static
+../Core/Src/app.c:310:6:app_step	16	static
